@@ -1,0 +1,15 @@
+document.writeln("		<div align=\"right\">");
+document.writeln("			<nav>");
+document.writeln("   	 		<ul>");
+document.writeln("   	     		<li><a href=\"../en/index.html\">English</a></li>");
+document.writeln("     	   		<li><a href=\"../cn/index.html\">中文</a></li>");
+document.writeln("    			</ul>");
+document.writeln("			</nav>");
+document.writeln("		</div>");
+document.writeln("		<nav>");
+document.writeln("    		<ul>");
+document.writeln("        		<li><a href=\"index.html\">Home</a></li>");
+document.writeln("        		<li><a href=\"talks.html\">Talks</a></li>");
+document.writeln("        		<li><a href=\"doc.html\">Documents</a></li>");
+document.writeln("    		</ul>");
+document.writeln("		</nav>");
