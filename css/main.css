@@ -29,6 +29,10 @@ p {
     line-height: 1.1em;
     color: #333;
 }
+ul li {
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
