@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <style type="text/css">
+      body.fr > p[lang=en] {
+        display: none;
+      }
+      body.en > p[lang=fr] {
+        display: none;
+      }
+    </style>
+  </head>
+  <body class="en">
+    <button onclick="document.body.className='en'">English</button>
+    <button onclick="document.body.className='fr'">French</button>
+    <p lang="en">This is English</p>
+    <p lang="fr">This is French</p>
+  </body>
+</html>
