@@ -12,7 +12,12 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
 	display: inline;
-	margin-right: 20px;
+	background-color: #FFFFFF;
+	border: 3px solid #AFE6FF;
+	border-radius: 14px;
+	box-shadow: 3px 3px 8px 0px #AFE6FF;
+	padding: 4px 10px 4px 10px;
+	margin: 0 1ex 0 0;
 }
 a {
 	text-decoration: none;
