@@ -2,10 +2,6 @@ body {
 	font-family: 'WenQuanYi Zen Hei', 'WenQuanYi Micro Hei', 'Microsoft YaHei', 'Helvetica', 'Arial', 'Sans-Serif';
 	margin: 60px auto;
 	width: 70%;
-	background-image:url('../img/bkg.jpg');
-	background-size:100% 175pt;
-	background-repeat:no-repeat;
-　	background-attachment: fixed!important;
 }
 nav ul, footer ul {
 	font-family: 'WenQuanYi Zen Hei', 'WenQuanYi Micro Hei', 'Microsoft YaHei', 'Helvetica', 'Arial', 'Sans-Serif';
