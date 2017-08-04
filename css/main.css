@@ -93,3 +93,10 @@ ul.posts li {
 .table1 tr:nth-child(even){
 	background-color:#fdfdfd;
 }
+
+
+.hover1:hover {
+	color: #39F !important;
+	text-shadow:-5px 3px 18px #39F !important;
+	-webkit-transition: all 0.3s ease-out;
+}
