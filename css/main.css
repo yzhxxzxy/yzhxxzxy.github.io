@@ -57,3 +57,39 @@ ul.posts li {
 	list-style: none;
 }
 
+
+.table1 table {
+	width:100%;
+	margin:15px 0
+}
+.table1 th {
+	background-color:#1EA4FF;
+	background:-o-linear-gradient(90deg, #1EA4FF, #7ecbfe);
+	background:-moz-linear-gradient( center top, #1EA4FF 5%, #7ecbfe 100% );
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #1EA4FF), color-stop(1, #7ecbfe) );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1EA4FF', endColorstr='#7ecbfe');
+	color:#FFFFFF
+}
+.table1,.table1 th,.table1 td
+{
+	font-size:0.95em;
+	text-align:center;
+	padding:4px;
+	border:1px solid #2085fe;
+	border-collapse:collapse
+}
+.table1 td {
+
+	border:1px solid #7ecbfe;
+	border-collapse:collapse
+}
+.table1 tr:nth-child(odd){
+	background-color:#b4e0fe;
+	background:-o-linear-gradient(90deg, #b4e0fe, #f0f8fe);
+	background:-moz-linear-gradient( center top, #b4e0fe 5%, #f0f8fe 100% );
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #b4e0fe), color-stop(1, #f0f8fe) );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b4e0fe', endColorstr='#f0f8fe');
+}
+.table1 tr:nth-child(even){
+	background-color:#fdfdfd;
+}
