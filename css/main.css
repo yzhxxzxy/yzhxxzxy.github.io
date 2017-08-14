@@ -100,3 +100,12 @@ ul.posts li {
 	text-shadow:-5px 3px 18px #39F !important;
 	-webkit-transition: all 0.3s ease-out;
 }
+
+div.img1 {
+	text-align:center;
+	padding:20px;
+}
+div.desc1 {
+	text-align:left;
+	font-size:1em;
+}
