@@ -109,3 +109,10 @@ div.desc1 {
 	text-align:left;
 	font-size:1em;
 }
+
+div.img2 {
+	text-align:center;
+	float:right;
+	padding:20px;
+	font-size:1.2em;
+}
