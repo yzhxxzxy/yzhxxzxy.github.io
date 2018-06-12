@@ -2,7 +2,7 @@ document.writeln("		<nav>");
 document.writeln("    		<ul>");
 document.writeln("        		<li><a href=\"index.html\">Home</a></li>");
 document.writeln("        		<li><a href=\"talks.html\">Talks</a></li>");
-document.writeln("        		<li><a href=\"lectures.html\">Lectures</a></li>");
+document.writeln("        		<li><a href=\"teaching.html\">Teaching</a></li>");
 document.writeln("        		<li><a href=\"doc.html\">Documents</a></li>");
 document.writeln("        		<li><a href=\"starcharts.html\">Star Charts</a></li>");
 document.writeln("        		<li><a href=\"links.html\">Links</a></li>");
