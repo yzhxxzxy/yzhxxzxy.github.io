@@ -4,9 +4,9 @@
 <script src="../js/IE.js"></script>
 <![endif]-->
 
-<html lang="cn">
+<html lang="en">
 	<head>
-		<title>余钊焕的个人网站 - 教学</title>
+		<title>Zhao-Huan Yu's Personal Website - Teaching</title>
 		<meta charset="UTF-8" />
 		<link rel="stylesheet" type="text/css" href="../css/main.css">
 		<!--[if !IE]>--><link rel="stylesheet" type="text/css" href="../css/not_IE.css"><!--<![endif]-->
@@ -24,14 +24,14 @@
 		<br>
 		<script src="nav.js"></script>
     		<br>
-		<h2>数学物理方法（2019 年秋季学期）</h2>
+		<h2>Mathematical Methods for Physics (Fall 2019 Semester)</h2>
 		<ul>
-			<li>授课教师：<a href="https://panyw5.github.io" target="_blank">潘逸文</a>、余钊焕</li>
-			<li>授课对象：18 级光电信息科学与工程专业本科生</li>
-			<li>教材：林琼桂《数学物理方法讲义》（2019版）</li>
-			<li><a href="https://panyw5.github.io/courses/mmp.html" target="_blank"><b>潘逸文课程网页</b></a></li>
-    			<li><a href="../teaching/MMP/homework_MMP2019Fall.pdf" target="_blank"><b>作业</b></a>（更新日期：2019 年 11 月 11 日）</li>
-<!--			<li>潘逸文讲义：
+			<li>Teachers: <a href="https://panyw5.github.io" target="_blank">Yiwen Pan</a> and Zhao-Huan Yu</li>
+			<li>Major: Opto-Electronics Information Science and Engineering </li>
+			<li>Textbook: Qiong-gui Lin's Lecture notes in Mathematical Methods for Physics</li>
+			<li><a href="https://panyw5.github.io/courses/mmp.html" target="_blank"><b>Link to Yiwen Pan's course page</b></a></li>
+    			<li><a href="../teaching/MMP/homework_MMP2018Fall.pdf" target="_blank"><b>Homework</b></a> (last updated on Dec 25, 2018)</li>
+<!--			<li>Yiwen Pan's Lecture Notes:
 				<a href="../teaching/MMP/潘逸文_数学物理方法讲义_第1次课.pdf" target="_blank"><b>(1)</b></a>&nbsp;
 				<a href="../teaching/MMP/潘逸文_数学物理方法讲义_第2次课.pdf" target="_blank"><b>(2)</b></a>&nbsp;
 				<a href="../teaching/MMP/潘逸文_数学物理方法讲义_第3次课.pdf" target="_blank"><b>(3)</b></a>&nbsp;
@@ -51,33 +51,33 @@
 				<a href="../teaching/MMP/潘逸文_数学物理方法讲义_第16次课.pdf" target="_blank"><b>(16)</b></a>&nbsp;
 				<a href="../teaching/MMP/潘逸文_数学物理方法讲义_第17次课.pdf" target="_blank"><b>(17)</b></a>
 			</li>
-			<li><a href="../teaching/MMP/1812_MMP_extras.pdf" target="_blank"><b>补充讲义</b></a>（更新日期：2018 年 12 月 17 日）</li>-->
+			<li><a href="../teaching/MMP/1812_MMP_extras.pdf" target="_blank"><b>Supplementary Lecture Notes</b></a> (last updated on Dec 17, 2018)</li>-->
 		</ul>
 		<br>
-		<h2>量子场论（2018 年秋季学期）</h2>
+		<h2>Quantum Field Theory (Fall 2018 Semester)</h2>
 		<ul>
-			<li>授课教师：张宏浩、余钊焕</li>
-			<li>授课对象：物理学院研究生</li>
-			<li><a href="../teaching/1807_QFT.pdf" target="_blank"><b>量子场论讲义</b></a>（更新日期：2019 年 8 月 14 日）<br>
-				更新日志：2018 年 9 月 3 日更新第一、二、三章；9 月 12 日更新第四章；2019 年 2 月 19 日更新第五章。
+			<li>Teachers：Hong-Hao Zhang and Zhao-Huan Yu</li>
+			<li>Students：Graduate students in School of Physics</li>
+			<li><a href="../teaching/1807_QFT.pdf" target="_blank"><b>Lecture Notes in Quantum Field Theory (in Chinese)</b></a> (last updated on Aug 14, 2019)<br>
+				Update notes: Chapters 1, 2, and 3 updated on Sep 3, 2018; Chapter 4 updated on Sep 12; Chapter 5 updated on Feb 19, 2019.
 			</li>
 		</ul>
 		<br>
-		<h2>宇宙线相关粒子物理知识</h2>
+		<h2>Cosmic-Ray Related Particle Physics</h2>
 		<p>
-			<a href="https://indico.ihep.ac.cn/event/10163/" target="_blank">2019 年 LHAASO 暑期学校</a><br>
-			山东大学青岛校区，2019 年 8 月 18 日至 26 日
+			<a href="https://indico.ihep.ac.cn/event/10163/" target="_blank">LHAASO Summer School in 2019</a><br>
+			Shandong University, Qingdao, Augest 18-26, 2019
 		</p>
 		<ul>
-			<li><a href="../teaching/1908_CR_sec1_PartPhys.pdf" target="_blank"><b>第一节　粒子物理概述</b></a></li>
-			<li><a href="../teaching/1908_CR_sec2_SM.pdf" target="_blank"><b>第二节　粒子物理标准模型</b></a></li>
-			<li><a href="../teaching/1908_CR_sec3_HadronInt.pdf" target="_blank"><b>第三节　强子相互作用</b></a></li>
+			<li><a href="../teaching/1908_CR_sec1_PartPhys.pdf" target="_blank"><b>Lecture 1: Overview of Particle Physics (in Chinese)</b></a></li>
+			<li><a href="../teaching/1908_CR_sec2_SM.pdf" target="_blank"><b>Lecture 2: Standard Model of Particle Physics (in Chinese)</b></a></li>
+			<li><a href="../teaching/1908_CR_sec3_HadronInt.pdf" target="_blank"><b>Lecture 3: Hadronic Interactions (in Chinese)</b></a></li>
 		</ul>
 		<br>
-		<h2>暗物质直接探测和对撞机探测</h2>
+		<h2>Dark Matter Direct Detection and Dark Matter Searches at Colliders</h2>
 		<p>
-			<a href="http://honghaozhang.github.io/theo2017/" target="_blank">理论物理前沿暑期讲习班——暗物质、中微子与粒子物理前沿</a><br>
-			中山大学广州校区南校区，2017 年 7 月 3 日至 28 日
+			<a href="http://honghaozhang.github.io/theo2017/" target="_blank">Theoretical Physics Summer School: Frontiers in Dark Matter, Neutrinos, and Particle Physics</a><br>
+			Sun Yat-Sen University, Guangzhou, July 3-28, 2017
 		</p>
 		<ul>
 			<li><a href="../teaching/1707_DM_lect1_DD.pdf" target="_blank"><b>Lecture 1: Introduction to Dark Matter Direct Detection</b></a></li>
@@ -86,15 +86,15 @@
 			<li><a href="../teaching/1707_DM_lect4_eecld.pdf" target="_blank"><b>Lecture 4: Dark Matter Searches at <i>e</i><sup>+</sup><i>e</i><sup>−</sup> colliders</b></a></li>
 		</ul>
 		<br>
-		<h2>粒子物理简介</h2>
+		<h2>A Brief Introduction to Particle Physics</h2>
 		<ul>
-			<li><a href="../teaching/1805_PartPhys_sec1_intro.pdf" target="_blank"><b>第一节　概述</b></a></li>
-			<li><a href="../teaching/1805_PartPhys_sec2_sym.pdf" target="_blank"><b>第二节　对称性和守恒定律</b></a></li>
-			<li><a href="../teaching/1805_PartPhys_sec3_kin.pdf" target="_blank"><b>第三节　粒⼦运动学、衰变和散射</b></a></li>
-			<li><a href="../teaching/1805_PartPhys_sec4_SM.pdf" target="_blank"><b>第四节　粒⼦物理标准模型</b></a></li>
+			<li><a href="../teaching/1805_PartPhys_sec1_intro.pdf" target="_blank"><b>Lecture 1: Overview (in Chinese)</b></a></li>
+			<li><a href="../teaching/1805_PartPhys_sec2_sym.pdf" target="_blank"><b>Lecture 2: Symmetries and Conservation Laws (in Chinese)</b></a></li>
+			<li><a href="../teaching/1805_PartPhys_sec3_kin.pdf" target="_blank"><b>Lecture 3: Kinematics, Decay, and Scattering (in Chinese)</b></a></li>
+			<li><a href="../teaching/1805_PartPhys_sec4_SM.pdf" target="_blank"><b>Lecture 4: Standard Model (in Chinese)</b></a></li>
 		</ul>
 		<p>
-			视频：
+			Videos:&nbsp;
 			<a href="https://www.bilibili.com/video/av22900759/?p=17" target="_blank"><b>(1)</b></a>&nbsp;
 			<a href="https://www.bilibili.com/video/av22900759/?p=18" target="_blank"><b>(2)</b></a>&nbsp;
 			<a href="https://www.bilibili.com/video/av22900759/?p=19" target="_blank"><b>(3)</b></a>&nbsp;
