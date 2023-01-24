@@ -115,3 +115,12 @@ div.img2 {
 	padding:20px;
 	font-size:1.2em;
 }
+
+div.img3 {
+	text-align:center;
+	float:right;
+	margin:0px 20px 20px 20px;
+	font-size:1.2em;
+}
+
+
