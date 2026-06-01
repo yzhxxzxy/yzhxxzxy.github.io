@@ -2,15 +2,18 @@ body {
 	font-family: 'Source Han Sans CN', 'WenQuanYi Zen Hei', 'WenQuanYi Micro Hei', 'Microsoft YaHei', 'Helvetica', 'Arial', sans-serif;
 	margin: 60px auto;
 	width: 90%;
+	font-size: 20px;
 }
 @media (min-width: 1000px) {
     body {
         width: 80%;
+	font-size: 19px;
     }
 }
 @media (min-width: 1300px) {
     body {
         width: 70%;
+	font-size: 18px;
     }
 }
 nav ul, footer ul {

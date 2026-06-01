@@ -1,4 +1,4 @@
-document.writeln("		<nav>");
+document.writeln("		<nav style='line-height:2.8'>");
 document.writeln("    		<ul>");
 document.writeln("        		<li><a href=\"../cn/index.html\">主页</a></li>");
 document.writeln("        		<li><a href=\"talks.html\">学术报告</a></li>");
