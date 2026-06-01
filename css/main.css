@@ -1,7 +1,17 @@
 body {
 	font-family: 'Source Han Sans CN', 'WenQuanYi Zen Hei', 'WenQuanYi Micro Hei', 'Microsoft YaHei', 'Helvetica', 'Arial', sans-serif;
 	margin: 60px auto;
-	width: 70%;
+	width: 90%;
+}
+@media (min-width: 1000px) {
+    body {
+        width: 80%;
+    }
+}
+@media (min-width: 1300px) {
+    body {
+        width: 70%;
+    }
 }
 nav ul, footer ul {
 	font-family: 'Source Han Sans CN', 'WenQuanYi Zen Hei', 'WenQuanYi Micro Hei', 'Microsoft YaHei', 'Helvetica', 'Arial', sans-serif;
