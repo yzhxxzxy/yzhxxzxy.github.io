@@ -1,6 +1,6 @@
 body {
-	background-image:url('../img/bkg.jpg');
-	background-size:100% 175pt;
+	background-image:url('../img/background.jpg');
+	background-size:contain;
 	background-repeat:no-repeat;
 　	background-attachment: fixed!important;
 }
