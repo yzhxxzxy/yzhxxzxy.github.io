@@ -4,6 +4,23 @@ body {
 	width: 90%;
 	font-size: 22px;
 }
+nav ul, footer ul {
+	font-family: 'Source Han Sans CN', 'WenQuanYi Zen Hei', 'WenQuanYi Micro Hei', 'Microsoft YaHei', 'Helvetica', 'Arial', sans-serif;
+	padding: 0px;
+	list-style: none;
+	font-weight: bold;
+	font-size: 1em;
+}
+nav ul li, footer ul li {
+	display: inline;
+	background-color: #FFFFFF;
+	border: 3px solid #64C9FF;
+	border-radius: 14px;
+	box-shadow: 3px 3px 8px 0px #64C9FF;
+	padding: 4px 10px 4px 10px;
+	margin: 0 1ex 0 0;
+	white-space: nowrap;
+}
 @media (min-width: 1000px) {
     body {
         width: 80%;
@@ -21,23 +38,6 @@ body {
     nav {
         font-size: 1.2em;
     }
-}
-nav ul, footer ul {
-	font-family: 'Source Han Sans CN', 'WenQuanYi Zen Hei', 'WenQuanYi Micro Hei', 'Microsoft YaHei', 'Helvetica', 'Arial', sans-serif;
-	padding: 0px;
-	list-style: none;
-	font-weight: bold;
-	font-size: 1em;
-}
-nav ul li, footer ul li {
-	display: inline;
-	background-color: #FFFFFF;
-	border: 3px solid #64C9FF;
-	border-radius: 14px;
-	box-shadow: 3px 3px 8px 0px #64C9FF;
-	padding: 4px 10px 4px 10px;
-	margin: 0 1ex 0 0;
-	white-space: nowrap;
 }
 a {
 	text-decoration: none;
@@ -143,4 +143,10 @@ div.img3 {
 	font-size:1.2em;
 }
 
+.link-img {
+    width: 1.4em;
+    height: auto;
+    position: relative;
+    bottom: -7px
+}
 
