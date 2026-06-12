@@ -9,11 +9,17 @@ body {
         width: 80%;
 	font-size: 20px;
     }
+    nav {
+        font-size: 1.1em;
+    }
 }
 @media (min-width: 1300px) {
     body {
         width: 70%;
 	font-size: 18px;
+    }
+    nav {
+        font-size: 1.2em;
     }
 }
 nav ul, footer ul {
@@ -21,7 +27,7 @@ nav ul, footer ul {
 	padding: 0px;
 	list-style: none;
 	font-weight: bold;
-	font-size: 1.2em;
+	font-size: 1em;
 }
 nav ul li, footer ul li {
 	display: inline;
